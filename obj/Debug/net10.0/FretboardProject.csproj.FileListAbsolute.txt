@@ -1,0 +1,14 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\bin\Debug\net10.0\FretboardProject.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\bin\Debug\net10.0\FretboardProject.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\bin\Debug\net10.0\FretboardProject.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\bin\Debug\net10.0\FretboardProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\bin\Debug\net10.0\FretboardProject.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\refint\FretboardProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\FretboardProject.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\FretboardProject\obj\Debug\net10.0\ref\FretboardProject.dll
